@@ -6,6 +6,11 @@ Carcassonne est un jeu de pose de tuiles, où l'on construit le plateau de jeu a
 
 Ce projet est une adaption numérique non-officielle dérivée du jeu de base, codé en C et développé par deux étudiants de l'UPVD : Jonas Sprocani & Guilhem Pluche
 
+> ### À propos de ce dépôt :
+> Ce répertoire a été préparé spécifiquement pour mes candidatures en Master, afin d'offrir un aperçu clair et direct depuis mon CV. Il s'agit d'une version consolidée d'un projet académique :
+> * **Historique condensé :** L'ensemble du développement a été regroupé en un commit unique pour mettre immédiatement en valeur le résultat abouti.
+> * **Fidélité au projet initial :** Quelques correctifs mineurs ont été appliqués pour garantir un code parfaitement fonctionnel. Le périmètre et les fonctionnalités restent cependant strictement identiques à la version d'origine.
+
 
 <h3>PRÉREQUIS :</h3>
 
