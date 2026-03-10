@@ -21,14 +21,14 @@ Remarque : Si vous avez déjà Raylib d'installé (dynamiquement), le téléchar
 
 <h3>CONSTRUCTION :</h3>
 
-Pour compiler le projet, ouvrez un terminal dans le répertoire racine puis exécutez dans le terminal la commande suivante : make
+Pour compiler le projet, ouvrez un terminal dans le répertoire racine puis exécutez dans le terminal la commande suivante : `make`
 
 Si la compilation est réussie, un exécutable Carcassonne est créé dans le dossier bin.
 
 
 Si le message suivant est affiché :
 
-make: *** Pas de cible spécifiée et aucun makefile n'a été trouvé. Arrêt.
+`make: *** Pas de cible spécifiée et aucun makefile n'a été trouvé. Arrêt.`
 
 Vérifiez d'avoir bien téléchargé le fichier Makefile dans le répertoire racine.
 
@@ -38,10 +38,10 @@ Vérifiez d'avoir bien téléchargé le fichier Makefile dans le répertoire rac
 Pour lancer le jeu, vous devez posséder dans le répertoire racine deux fichiers annexes : un fichier CSV contenant la liste des tuiles du jeu, ainsi qu'un fichier CFG contenant les identifiants images et les positions initiales des tuiles. Ces deux fichiers doivent avoir le même nom mais chacun leur extension : .csv et .cfg
 
 Vous avez deux méthodes pour lancer jeu : 
-<br/>-exécuter dans le terminal et en écrivant à la main le nom (sans extension) des fichiers annexes dans la commande suivante : ./bin/carcassonne [Nom fichiers] 
-<br/>-exécuter directement dans le terminal la commande suivante : make run
+<br/>-exécuter dans le terminal et en écrivant à la main le nom (sans extension) des fichiers annexes dans la commande suivante : `./bin/carcassonne [Nom fichiers]`
+<br/>-exécuter directement dans le terminal la commande suivante : `make run`
 
-Exemple d'utilisation : ./bin/carcassonne tuiles_base_simplifiees
+Exemple d'utilisation : `./bin/carcassonne tuiles_base_simplifiees`
 
 Note : Le projet fourni par défaut deux fichiers CSV et CFG : tuiles_base_simplifiees.csv et tuiles_base_simplifiees.cfg
  
